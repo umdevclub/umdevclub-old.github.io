@@ -3,15 +3,14 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
-
+# CUSEC Wiki
 
 <!--
   -- Default theme
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+[gimmick:theme](united)
 
 
 <!--
@@ -19,8 +18,15 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+[Getting Started](pages/getting_started.md)
+[Head Delegates](pages/head_delegates.md)
+[Sponsorship](pages/sponsorship.md)
+[Logistics](pages/logistics.md)
+[Speakers](pages/speakers.md)
+[Design](pages/design.md)
+[Tech](pages/tech.md)
+[Conference Weekend](pages/conference_weekend.md)
+
 
 <!-- A more complex navigation example: ----------------------------------------
 

@@ -1,4 +1,4 @@
-# It works! ;-)
+# Canadian University Software Engineering Conference
 
 
 ## Section 1
