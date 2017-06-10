@@ -1,4 +1,4 @@
-# Speakers
+# What members are doing!
 
 
 ## Section 1

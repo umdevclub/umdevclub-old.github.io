@@ -8,29 +8,6 @@ Learn [Markdown](https://help.github.com/articles/github-flavored-markdown)! The
 
 Whenever you feel stuck, go to [MDwiki's own site](http://mdwiki.info) for further information.
 
-One Wiki Only? Fork It.
------------------------
-
-First off fork this repo and call it something like `<MyProject>-wiki`.
-
-Multiple Wikis? Clone It.
--------------------------
-
-In case would you like to create more than one wiki for the same GitHub user or organization, then forking won't cut it. At the moment of this writing GitHub won't allow you to fork a single repository multiple times for the same account.
-
-There's a workaround to this, however on GitHub's web interface you won't see the sign that says "forked from" in your cloned repository.
-
-Below instructions how to clone this repository using the CLI:
-
-**First off, create a new (empty) repository on GitHub, then;**
-
-```bash
-git clone https://github.com/exalted/mdwiki-seed.git
-cd mdwiki-seed
-git remote add foobar <HTTPS/SSH Clone URL of the New Repository>
-git push foobar gh-pages
-```
-
 Create a New Wiki
 -----------------
 

@@ -1,5 +1,4 @@
-# Canadian University Software Engineering Conference
-
+# .devClub - University of Manitoba
 
 ## Section 1
 

@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# CUSEC Wiki
+# .devClub Wiki
 
 <!--
   -- Default theme
@@ -18,14 +18,10 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[Getting Started](pages/getting_started.md)
-[Head Delegates](pages/head_delegates.md)
-[Sponsorship](pages/sponsorship.md)
-[Logistics](pages/logistics.md)
-[Speakers](pages/speakers.md)
-[Design](pages/design.md)
-[Tech](pages/tech.md)
-[Conference Weekend](pages/conference_weekend.md)
+[Resources](pages/resources.md)
+[devClub Projects](pages/devclub_projects.md)
+[Student Highlights](pages/student_highlights.md)
+
 
 
 <!-- A more complex navigation example: ----------------------------------------
